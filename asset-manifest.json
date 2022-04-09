@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/farmhand/static/css/main.a9169a7d.chunk.css",
+    "main.js": "/farmhand/static/js/main.0ea1e9d6.chunk.js",
+    "main.js.map": "/farmhand/static/js/main.0ea1e9d6.chunk.js.map",
+    "runtime-main.js": "/farmhand/static/js/runtime-main.704ddba4.js",
+    "runtime-main.js.map": "/farmhand/static/js/runtime-main.704ddba4.js.map",
+    "static/css/2.711bd397.chunk.css": "/farmhand/static/css/2.711bd397.chunk.css",
+    "static/js/2.463aa8ab.chunk.js": "/farmhand/static/js/2.463aa8ab.chunk.js",
+    "static/js/2.463aa8ab.chunk.js.map": "/farmhand/static/js/2.463aa8ab.chunk.js.map",
+    "index.html": "/farmhand/index.html",
+    "service-worker.js": "/farmhand/service-worker.js",
+    "service-worker.js.map": "/farmhand/service-worker.js.map",
+    "static/css/2.711bd397.chunk.css.map": "/farmhand/static/css/2.711bd397.chunk.css.map",
+    "static/css/main.a9169a7d.chunk.css.map": "/farmhand/static/css/main.a9169a7d.chunk.css.map",
+    "static/js/2.463aa8ab.chunk.js.LICENSE.txt": "/farmhand/static/js/2.463aa8ab.chunk.js.LICENSE.txt",
+    "static/js/main.0ea1e9d6.chunk.js.LICENSE.txt": "/farmhand/static/js/main.0ea1e9d6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/farmhand/static/media/public-sans-latin-900italic.cf33a699.woff2",
+    "static/media/scarecrow-animated.61bc878f.gif": "/farmhand/static/media/scarecrow-animated.61bc878f.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.704ddba4.js",
+    "static/css/2.711bd397.chunk.css",
+    "static/js/2.463aa8ab.chunk.js",
+    "static/css/main.a9169a7d.chunk.css",
+    "static/js/main.0ea1e9d6.chunk.js"
+  ]
+}
